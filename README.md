@@ -1,5 +1,7 @@
 # LaTeX-Input for iOS and macOS
 
+![Demo](https://i.imgur.com/JA7uqES.gif)
+
 A Text Replacement definition `plist` file
 
 Based on the brilliant idea of [LaTeX-Input](https://github.com/clarkgrubb/latex-input) from [clarkgrubb](https://github.com/clarkgrubb).
