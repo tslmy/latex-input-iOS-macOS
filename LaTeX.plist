@@ -34,423 +34,222 @@
 	<dict><key>phrase</key><string>×</string><key>shortcut</key><string>\times</string></dict>
 	<dict><key>phrase</key><string>ß</string><key>shortcut</key><string>\ss</string></dict>
 	<dict><key>phrase</key><string>ß</string><key>shortcut</key><string>{\ss}</string></dict>
-	<dict><key>phrase</key><string>À</string><key>shortcut</key><string>\`A</string></dict>
 	<dict><key>phrase</key><string>à</string><key>shortcut</key><string>\`a</string></dict>
-	<dict><key>phrase</key><string>À</string><key>shortcut</key><string>\`{A}</string></dict>
 	<dict><key>phrase</key><string>à</string><key>shortcut</key><string>\`{a}</string></dict>
-	<dict><key>phrase</key><string>À</string><key>shortcut</key><string>\grave{A}</string></dict>
 	<dict><key>phrase</key><string>à</string><key>shortcut</key><string>\grave{a}</string></dict>
-	<dict><key>phrase</key><string>Á</string><key>shortcut</key><string>\&apos;A</string></dict>
 	<dict><key>phrase</key><string>á</string><key>shortcut</key><string>\&apos;a</string></dict>
-	<dict><key>phrase</key><string>Á</string><key>shortcut</key><string>\&apos;{A}</string></dict>
 	<dict><key>phrase</key><string>á</string><key>shortcut</key><string>\&apos;{a}</string></dict>
-	<dict><key>phrase</key><string>Á</string><key>shortcut</key><string>\acute{A}</string></dict>
 	<dict><key>phrase</key><string>á</string><key>shortcut</key><string>\acute{a}</string></dict>
-	<dict><key>phrase</key><string>Â</string><key>shortcut</key><string>\^A</string></dict>
 	<dict><key>phrase</key><string>â</string><key>shortcut</key><string>\^a</string></dict>
-	<dict><key>phrase</key><string>Â</string><key>shortcut</key><string>\^{A}</string></dict>
 	<dict><key>phrase</key><string>â</string><key>shortcut</key><string>\^{a}</string></dict>
-	<dict><key>phrase</key><string>Â</string><key>shortcut</key><string>\hat{A}</string></dict>
 	<dict><key>phrase</key><string>â</string><key>shortcut</key><string>\hat{a}</string></dict>
 	<dict><key>phrase</key><string>ã</string><key>shortcut</key><string>\tilde{a}</string></dict>
 	<dict><key>phrase</key><string>ã</string><key>shortcut</key><string>\~a</string></dict>
 	<dict><key>phrase</key><string>ã</string><key>shortcut</key><string>\~{a}</string></dict>
-	<dict><key>phrase</key><string>Ä</string><key>shortcut</key><string>\&quot;A</string></dict>
 	<dict><key>phrase</key><string>ä</string><key>shortcut</key><string>\&quot;a</string></dict>
-	<dict><key>phrase</key><string>Ä</string><key>shortcut</key><string>\&quot;{A}</string></dict>
 	<dict><key>phrase</key><string>ä</string><key>shortcut</key><string>\&quot;{a}</string></dict>
-	<dict><key>phrase</key><string>Ä</string><key>shortcut</key><string>\ddot{A}</string></dict>
 	<dict><key>phrase</key><string>ä</string><key>shortcut</key><string>\ddot{a}</string></dict>
-	<dict><key>phrase</key><string>Å</string><key>shortcut</key><string>\AA</string></dict>
 	<dict><key>phrase</key><string>å</string><key>shortcut</key><string>\aa</string></dict>
-	<dict><key>phrase</key><string>Å</string><key>shortcut</key><string>{\AA}</string></dict>
 	<dict><key>phrase</key><string>å</string><key>shortcut</key><string>{\aa}</string></dict>
-	<dict><key>phrase</key><string>Æ</string><key>shortcut</key><string>\AE</string></dict>
 	<dict><key>phrase</key><string>æ</string><key>shortcut</key><string>\ae</string></dict>
-	<dict><key>phrase</key><string>Æ</string><key>shortcut</key><string>{\AE}</string></dict>
 	<dict><key>phrase</key><string>æ</string><key>shortcut</key><string>{\ae}</string></dict>
-	<dict><key>phrase</key><string>Ç</string><key>shortcut</key><string>\c{C}</string></dict>
 	<dict><key>phrase</key><string>ç</string><key>shortcut</key><string>\c{c}</string></dict>
-	<dict><key>phrase</key><string>È</string><key>shortcut</key><string>\`E</string></dict>
 	<dict><key>phrase</key><string>è</string><key>shortcut</key><string>\`e</string></dict>
-	<dict><key>phrase</key><string>È</string><key>shortcut</key><string>\`{E}</string></dict>
 	<dict><key>phrase</key><string>è</string><key>shortcut</key><string>\`{e}</string></dict>
-	<dict><key>phrase</key><string>È</string><key>shortcut</key><string>\grave{E}</string></dict>
 	<dict><key>phrase</key><string>è</string><key>shortcut</key><string>\grave{e}</string></dict>
-	<dict><key>phrase</key><string>É</string><key>shortcut</key><string>\&apos;E</string></dict>
 	<dict><key>phrase</key><string>é</string><key>shortcut</key><string>\&apos;e</string></dict>
-	<dict><key>phrase</key><string>É</string><key>shortcut</key><string>\&apos;{E}</string></dict>
 	<dict><key>phrase</key><string>é</string><key>shortcut</key><string>\&apos;{e}</string></dict>
-	<dict><key>phrase</key><string>É</string><key>shortcut</key><string>\acute{E}</string></dict>
 	<dict><key>phrase</key><string>é</string><key>shortcut</key><string>\acute{e}</string></dict>
-	<dict><key>phrase</key><string>Ê</string><key>shortcut</key><string>\^E</string></dict>
 	<dict><key>phrase</key><string>ê</string><key>shortcut</key><string>\^e</string></dict>
-	<dict><key>phrase</key><string>Ê</string><key>shortcut</key><string>\^{E}</string></dict>
 	<dict><key>phrase</key><string>ê</string><key>shortcut</key><string>\^{e}</string></dict>
-	<dict><key>phrase</key><string>Ê</string><key>shortcut</key><string>\hat{E}</string></dict>
 	<dict><key>phrase</key><string>ê</string><key>shortcut</key><string>\hat{e}</string></dict>
-	<dict><key>phrase</key><string>Ë</string><key>shortcut</key><string>\&quot;E</string></dict>
 	<dict><key>phrase</key><string>ë</string><key>shortcut</key><string>\&quot;e</string></dict>
-	<dict><key>phrase</key><string>Ë</string><key>shortcut</key><string>\&quot;{E}</string></dict>
 	<dict><key>phrase</key><string>ë</string><key>shortcut</key><string>\&quot;{e}</string></dict>
-	<dict><key>phrase</key><string>Ë</string><key>shortcut</key><string>\ddot{E}</string></dict>
 	<dict><key>phrase</key><string>ë</string><key>shortcut</key><string>\ddot{e}</string></dict>
-	<dict><key>phrase</key><string>Ì</string><key>shortcut</key><string>\`I</string></dict>
 	<dict><key>phrase</key><string>ì</string><key>shortcut</key><string>\`i</string></dict>
-	<dict><key>phrase</key><string>Ì</string><key>shortcut</key><string>\`{I}</string></dict>
 	<dict><key>phrase</key><string>ì</string><key>shortcut</key><string>\`{i}</string></dict>
-	<dict><key>phrase</key><string>Ì</string><key>shortcut</key><string>\grave{I}</string></dict>
 	<dict><key>phrase</key><string>ì</string><key>shortcut</key><string>\grave{i}</string></dict>
-	<dict><key>phrase</key><string>Í</string><key>shortcut</key><string>\&apos;I</string></dict>
 	<dict><key>phrase</key><string>í</string><key>shortcut</key><string>\&apos;i</string></dict>
-	<dict><key>phrase</key><string>Í</string><key>shortcut</key><string>\&apos;{I}</string></dict>
 	<dict><key>phrase</key><string>í</string><key>shortcut</key><string>\&apos;{i}</string></dict>
-	<dict><key>phrase</key><string>Í</string><key>shortcut</key><string>\acute{I}</string></dict>
 	<dict><key>phrase</key><string>í</string><key>shortcut</key><string>\acute{i}</string></dict>
-	<dict><key>phrase</key><string>Î</string><key>shortcut</key><string>\^I</string></dict>
 	<dict><key>phrase</key><string>î</string><key>shortcut</key><string>\^i</string></dict>
-	<dict><key>phrase</key><string>Î</string><key>shortcut</key><string>\^{I}</string></dict>
 	<dict><key>phrase</key><string>î</string><key>shortcut</key><string>\^{i}</string></dict>
-	<dict><key>phrase</key><string>Î</string><key>shortcut</key><string>\hat{I}</string></dict>
 	<dict><key>phrase</key><string>î</string><key>shortcut</key><string>\hat{i}</string></dict>
-	<dict><key>phrase</key><string>Ï</string><key>shortcut</key><string>\&quot;I</string></dict>
 	<dict><key>phrase</key><string>ï</string><key>shortcut</key><string>\&quot;i</string></dict>
-	<dict><key>phrase</key><string>Ï</string><key>shortcut</key><string>\&quot;{I}</string></dict>
 	<dict><key>phrase</key><string>ï</string><key>shortcut</key><string>\&quot;{i}</string></dict>
-	<dict><key>phrase</key><string>Ï</string><key>shortcut</key><string>\ddot{I}</string></dict>
 	<dict><key>phrase</key><string>ï</string><key>shortcut</key><string>\ddot{i}</string></dict>
-	<dict><key>phrase</key><string>Ð</string><key>shortcut</key><string>\DH</string></dict>
 	<dict><key>phrase</key><string>ð</string><key>shortcut</key><string>\dh</string></dict>
 	<dict><key>phrase</key><string>ð</string><key>shortcut</key><string>\eth</string></dict>
-	<dict><key>phrase</key><string>Ð</string><key>shortcut</key><string>{\DH}</string></dict>
 	<dict><key>phrase</key><string>ð</string><key>shortcut</key><string>{\dh}</string></dict>
-	<dict><key>phrase</key><string>Ñ</string><key>shortcut</key><string>\tilde{N}</string></dict>
 	<dict><key>phrase</key><string>ñ</string><key>shortcut</key><string>\tilde{n}</string></dict>
-	<dict><key>phrase</key><string>Ñ</string><key>shortcut</key><string>\~N</string></dict>
 	<dict><key>phrase</key><string>ñ</string><key>shortcut</key><string>\~n</string></dict>
-	<dict><key>phrase</key><string>Ñ</string><key>shortcut</key><string>\~{N}</string></dict>
 	<dict><key>phrase</key><string>ñ</string><key>shortcut</key><string>\~{n}</string></dict>
-	<dict><key>phrase</key><string>Ò</string><key>shortcut</key><string>\`O</string></dict>
 	<dict><key>phrase</key><string>ò</string><key>shortcut</key><string>\`o</string></dict>
-	<dict><key>phrase</key><string>Ò</string><key>shortcut</key><string>\`{O}</string></dict>
 	<dict><key>phrase</key><string>ò</string><key>shortcut</key><string>\`{o}</string></dict>
-	<dict><key>phrase</key><string>Ò</string><key>shortcut</key><string>\grave{O}</string></dict>
 	<dict><key>phrase</key><string>ò</string><key>shortcut</key><string>\grave{o}</string></dict>
-	<dict><key>phrase</key><string>Ó</string><key>shortcut</key><string>\&apos;O</string></dict>
 	<dict><key>phrase</key><string>ó</string><key>shortcut</key><string>\&apos;o</string></dict>
-	<dict><key>phrase</key><string>Ó</string><key>shortcut</key><string>\&apos;{O}</string></dict>
 	<dict><key>phrase</key><string>ó</string><key>shortcut</key><string>\&apos;{o}</string></dict>
-	<dict><key>phrase</key><string>Ó</string><key>shortcut</key><string>\acute{O}</string></dict>
 	<dict><key>phrase</key><string>ó</string><key>shortcut</key><string>\acute{o}</string></dict>
-	<dict><key>phrase</key><string>Ô</string><key>shortcut</key><string>\^O</string></dict>
 	<dict><key>phrase</key><string>ô</string><key>shortcut</key><string>\^o</string></dict>
-	<dict><key>phrase</key><string>Ô</string><key>shortcut</key><string>\^{O}</string></dict>
 	<dict><key>phrase</key><string>ô</string><key>shortcut</key><string>\^{o}</string></dict>
-	<dict><key>phrase</key><string>Ô</string><key>shortcut</key><string>\hat{O}</string></dict>
 	<dict><key>phrase</key><string>ô</string><key>shortcut</key><string>\hat{o}</string></dict>
-	<dict><key>phrase</key><string>Õ</string><key>shortcut</key><string>\tilde{O}</string></dict>
 	<dict><key>phrase</key><string>õ</string><key>shortcut</key><string>\tilde{o}</string></dict>
-	<dict><key>phrase</key><string>Õ</string><key>shortcut</key><string>\~O</string></dict>
 	<dict><key>phrase</key><string>õ</string><key>shortcut</key><string>\~o</string></dict>
-	<dict><key>phrase</key><string>Õ</string><key>shortcut</key><string>\~{O}</string></dict>
 	<dict><key>phrase</key><string>õ</string><key>shortcut</key><string>\~{o}</string></dict>
-	<dict><key>phrase</key><string>Ö</string><key>shortcut</key><string>\&quot;O</string></dict>
 	<dict><key>phrase</key><string>ö</string><key>shortcut</key><string>\&quot;o</string></dict>
-	<dict><key>phrase</key><string>Ö</string><key>shortcut</key><string>\&quot;{O}</string></dict>
 	<dict><key>phrase</key><string>ö</string><key>shortcut</key><string>\&quot;{o}</string></dict>
-	<dict><key>phrase</key><string>Ö</string><key>shortcut</key><string>\ddot{O}</string></dict>
 	<dict><key>phrase</key><string>ö</string><key>shortcut</key><string>\ddot{o}</string></dict>
 	<dict><key>phrase</key><string>÷</string><key>shortcut</key><string>\div</string></dict>
-	<dict><key>phrase</key><string>Ø</string><key>shortcut</key><string>\O</string></dict>
 	<dict><key>phrase</key><string>ø</string><key>shortcut</key><string>\o</string></dict>
-	<dict><key>phrase</key><string>Ø</string><key>shortcut</key><string>{\O}</string></dict>
 	<dict><key>phrase</key><string>ø</string><key>shortcut</key><string>{\o}</string></dict>
-	<dict><key>phrase</key><string>Ù</string><key>shortcut</key><string>\`U</string></dict>
 	<dict><key>phrase</key><string>ù</string><key>shortcut</key><string>\`u</string></dict>
-	<dict><key>phrase</key><string>Ù</string><key>shortcut</key><string>\`{U}</string></dict>
 	<dict><key>phrase</key><string>ù</string><key>shortcut</key><string>\`{u}</string></dict>
-	<dict><key>phrase</key><string>Ù</string><key>shortcut</key><string>\grave{U}</string></dict>
 	<dict><key>phrase</key><string>ù</string><key>shortcut</key><string>\grave{u}</string></dict>
-	<dict><key>phrase</key><string>Ú</string><key>shortcut</key><string>\&apos;U</string></dict>
 	<dict><key>phrase</key><string>ú</string><key>shortcut</key><string>\&apos;u</string></dict>
-	<dict><key>phrase</key><string>Ú</string><key>shortcut</key><string>\&apos;{U}</string></dict>
 	<dict><key>phrase</key><string>ú</string><key>shortcut</key><string>\&apos;{u}</string></dict>
-	<dict><key>phrase</key><string>Ú</string><key>shortcut</key><string>\acute{U}</string></dict>
 	<dict><key>phrase</key><string>ú</string><key>shortcut</key><string>\acute{u}</string></dict>
-	<dict><key>phrase</key><string>Û</string><key>shortcut</key><string>\^U</string></dict>
 	<dict><key>phrase</key><string>û</string><key>shortcut</key><string>\^u</string></dict>
-	<dict><key>phrase</key><string>Û</string><key>shortcut</key><string>\^{U}</string></dict>
 	<dict><key>phrase</key><string>û</string><key>shortcut</key><string>\^{u}</string></dict>
-	<dict><key>phrase</key><string>Û</string><key>shortcut</key><string>\hat{U}</string></dict>
 	<dict><key>phrase</key><string>û</string><key>shortcut</key><string>\hat{u}</string></dict>
-	<dict><key>phrase</key><string>Ü</string><key>shortcut</key><string>\&quot;U</string></dict>
 	<dict><key>phrase</key><string>ü</string><key>shortcut</key><string>\&quot;u</string></dict>
-	<dict><key>phrase</key><string>Ü</string><key>shortcut</key><string>\&quot;{U}</string></dict>
 	<dict><key>phrase</key><string>ü</string><key>shortcut</key><string>\&quot;{u}</string></dict>
-	<dict><key>phrase</key><string>Ü</string><key>shortcut</key><string>\ddot{U}</string></dict>
 	<dict><key>phrase</key><string>ü</string><key>shortcut</key><string>\ddot{u}</string></dict>
-	<dict><key>phrase</key><string>Ý</string><key>shortcut</key><string>\&apos;Y</string></dict>
 	<dict><key>phrase</key><string>ý</string><key>shortcut</key><string>\&apos;y</string></dict>
-	<dict><key>phrase</key><string>Ý</string><key>shortcut</key><string>\&apos;{Y}</string></dict>
 	<dict><key>phrase</key><string>ý</string><key>shortcut</key><string>\&apos;{y}</string></dict>
-	<dict><key>phrase</key><string>Ý</string><key>shortcut</key><string>\acute{Y}</string></dict>
 	<dict><key>phrase</key><string>ý</string><key>shortcut</key><string>\acute{y}</string></dict>
-	<dict><key>phrase</key><string>Þ</string><key>shortcut</key><string>\TH</string></dict>
 	<dict><key>phrase</key><string>þ</string><key>shortcut</key><string>\th</string></dict>
-	<dict><key>phrase</key><string>Þ</string><key>shortcut</key><string>{\TH}</string></dict>
 	<dict><key>phrase</key><string>þ</string><key>shortcut</key><string>{\th}</string></dict>
-	<dict><key>phrase</key><string>ÿ</string><key>shortcut</key><string>\&quot;y</string></dict>
 	<dict><key>phrase</key><string>Ÿ</string><key>shortcut</key><string>\&quot;Y</string></dict>
-	<dict><key>phrase</key><string>ÿ</string><key>shortcut</key><string>\&quot;{y}</string></dict>
 	<dict><key>phrase</key><string>Ÿ</string><key>shortcut</key><string>\&quot;{Y}</string></dict>
-	<dict><key>phrase</key><string>ÿ</string><key>shortcut</key><string>\ddot{y}</string></dict>
 	<dict><key>phrase</key><string>Ÿ</string><key>shortcut</key><string>\ddot{Y}</string></dict>
-	<dict><key>phrase</key><string>Ā</string><key>shortcut</key><string>\=A</string></dict>
 	<dict><key>phrase</key><string>ā</string><key>shortcut</key><string>\=a</string></dict>
-	<dict><key>phrase</key><string>Ā</string><key>shortcut</key><string>\={A}</string></dict>
 	<dict><key>phrase</key><string>ā</string><key>shortcut</key><string>\={a}</string></dict>
-	<dict><key>phrase</key><string>Ā</string><key>shortcut</key><string>\bar{A}</string></dict>
 	<dict><key>phrase</key><string>ā</string><key>shortcut</key><string>\bar{a}</string></dict>
 	<dict><key>phrase</key><string>Ā</string><key>shortcut</key><string>\tilde{A}</string></dict>
 	<dict><key>phrase</key><string>Ā</string><key>shortcut</key><string>\~A</string></dict>
 	<dict><key>phrase</key><string>Ā</string><key>shortcut</key><string>\~{A}</string></dict>
-	<dict><key>phrase</key><string>Ă</string><key>shortcut</key><string>\breve{A}</string></dict>
 	<dict><key>phrase</key><string>ă</string><key>shortcut</key><string>\breve{a}</string></dict>
-	<dict><key>phrase</key><string>Ă</string><key>shortcut</key><string>\u{A}</string></dict>
 	<dict><key>phrase</key><string>ă</string><key>shortcut</key><string>\u{a}</string></dict>
-	<dict><key>phrase</key><string>Ć</string><key>shortcut</key><string>\&apos;C</string></dict>
 	<dict><key>phrase</key><string>ć</string><key>shortcut</key><string>\&apos;c</string></dict>
-	<dict><key>phrase</key><string>Ć</string><key>shortcut</key><string>\&apos;{C}</string></dict>
 	<dict><key>phrase</key><string>ć</string><key>shortcut</key><string>\&apos;{c}</string></dict>
-	<dict><key>phrase</key><string>Ć</string><key>shortcut</key><string>\acute{C}</string></dict>
 	<dict><key>phrase</key><string>ć</string><key>shortcut</key><string>\acute{c}</string></dict>
-	<dict><key>phrase</key><string>Ĉ</string><key>shortcut</key><string>\^C</string></dict>
 	<dict><key>phrase</key><string>ĉ</string><key>shortcut</key><string>\^c</string></dict>
-	<dict><key>phrase</key><string>Ĉ</string><key>shortcut</key><string>\^{C}</string></dict>
 	<dict><key>phrase</key><string>ĉ</string><key>shortcut</key><string>\^{c}</string></dict>
-	<dict><key>phrase</key><string>Ĉ</string><key>shortcut</key><string>\hat{C}</string></dict>
 	<dict><key>phrase</key><string>ĉ</string><key>shortcut</key><string>\hat{c}</string></dict>
-	<dict><key>phrase</key><string>Ċ</string><key>shortcut</key><string>\.C</string></dict>
 	<dict><key>phrase</key><string>ċ</string><key>shortcut</key><string>\.c</string></dict>
-	<dict><key>phrase</key><string>Ċ</string><key>shortcut</key><string>\.{C}</string></dict>
 	<dict><key>phrase</key><string>ċ</string><key>shortcut</key><string>\.{c}</string></dict>
-	<dict><key>phrase</key><string>Ċ</string><key>shortcut</key><string>\dot{C}</string></dict>
 	<dict><key>phrase</key><string>ċ</string><key>shortcut</key><string>\dot{c}</string></dict>
-	<dict><key>phrase</key><string>Č</string><key>shortcut</key><string>\check{C}</string></dict>
 	<dict><key>phrase</key><string>č</string><key>shortcut</key><string>\check{c}</string></dict>
-	<dict><key>phrase</key><string>Č</string><key>shortcut</key><string>\v{C}</string></dict>
 	<dict><key>phrase</key><string>č</string><key>shortcut</key><string>\v{c}</string></dict>
-	<dict><key>phrase</key><string>Ď</string><key>shortcut</key><string>\check{D}</string></dict>
 	<dict><key>phrase</key><string>ď</string><key>shortcut</key><string>\check{d}</string></dict>
-	<dict><key>phrase</key><string>Ď</string><key>shortcut</key><string>\v{D}</string></dict>
 	<dict><key>phrase</key><string>ď</string><key>shortcut</key><string>\v{d}</string></dict>
-	<dict><key>phrase</key><string>Ē</string><key>shortcut</key><string>\=E</string></dict>
 	<dict><key>phrase</key><string>ē</string><key>shortcut</key><string>\=e</string></dict>
-	<dict><key>phrase</key><string>Ē</string><key>shortcut</key><string>\={E}</string></dict>
 	<dict><key>phrase</key><string>ē</string><key>shortcut</key><string>\={e}</string></dict>
-	<dict><key>phrase</key><string>Ē</string><key>shortcut</key><string>\bar{E}</string></dict>
 	<dict><key>phrase</key><string>ē</string><key>shortcut</key><string>\bar{e}</string></dict>
-	<dict><key>phrase</key><string>Ĕ</string><key>shortcut</key><string>\breve{E}</string></dict>
 	<dict><key>phrase</key><string>ĕ</string><key>shortcut</key><string>\breve{e}</string></dict>
-	<dict><key>phrase</key><string>Ĕ</string><key>shortcut</key><string>\u{E}</string></dict>
 	<dict><key>phrase</key><string>ĕ</string><key>shortcut</key><string>\u{e}</string></dict>
-	<dict><key>phrase</key><string>Ė</string><key>shortcut</key><string>\.E</string></dict>
 	<dict><key>phrase</key><string>ė</string><key>shortcut</key><string>\.e</string></dict>
-	<dict><key>phrase</key><string>Ė</string><key>shortcut</key><string>\.{E}</string></dict>
 	<dict><key>phrase</key><string>ė</string><key>shortcut</key><string>\.{e}</string></dict>
-	<dict><key>phrase</key><string>Ė</string><key>shortcut</key><string>\dot{E}</string></dict>
 	<dict><key>phrase</key><string>ė</string><key>shortcut</key><string>\dot{e}</string></dict>
-	<dict><key>phrase</key><string>Ě</string><key>shortcut</key><string>\check{E}</string></dict>
 	<dict><key>phrase</key><string>ě</string><key>shortcut</key><string>\check{e}</string></dict>
-	<dict><key>phrase</key><string>Ě</string><key>shortcut</key><string>\v{E}</string></dict>
 	<dict><key>phrase</key><string>ě</string><key>shortcut</key><string>\v{e}</string></dict>
-	<dict><key>phrase</key><string>Ĝ</string><key>shortcut</key><string>\^G</string></dict>
 	<dict><key>phrase</key><string>ĝ</string><key>shortcut</key><string>\^g</string></dict>
-	<dict><key>phrase</key><string>Ĝ</string><key>shortcut</key><string>\^{G}</string></dict>
 	<dict><key>phrase</key><string>ĝ</string><key>shortcut</key><string>\^{g}</string></dict>
-	<dict><key>phrase</key><string>Ĝ</string><key>shortcut</key><string>\hat{G}</string></dict>
 	<dict><key>phrase</key><string>ĝ</string><key>shortcut</key><string>\hat{g}</string></dict>
-	<dict><key>phrase</key><string>Ğ</string><key>shortcut</key><string>\breve{G}</string></dict>
 	<dict><key>phrase</key><string>ğ</string><key>shortcut</key><string>\breve{g}</string></dict>
-	<dict><key>phrase</key><string>Ğ</string><key>shortcut</key><string>\u{G}</string></dict>
 	<dict><key>phrase</key><string>ğ</string><key>shortcut</key><string>\u{g}</string></dict>
-	<dict><key>phrase</key><string>Ġ</string><key>shortcut</key><string>\.G</string></dict>
 	<dict><key>phrase</key><string>ġ</string><key>shortcut</key><string>\.g</string></dict>
-	<dict><key>phrase</key><string>Ġ</string><key>shortcut</key><string>\.{G}</string></dict>
 	<dict><key>phrase</key><string>ġ</string><key>shortcut</key><string>\.{g}</string></dict>
-	<dict><key>phrase</key><string>Ġ</string><key>shortcut</key><string>\dot{G}</string></dict>
 	<dict><key>phrase</key><string>ġ</string><key>shortcut</key><string>\dot{g}</string></dict>
-	<dict><key>phrase</key><string>Ĥ</string><key>shortcut</key><string>\^H</string></dict>
 	<dict><key>phrase</key><string>ĥ</string><key>shortcut</key><string>\^h</string></dict>
-	<dict><key>phrase</key><string>Ĥ</string><key>shortcut</key><string>\^{H}</string></dict>
 	<dict><key>phrase</key><string>ĥ</string><key>shortcut</key><string>\^{h}</string></dict>
-	<dict><key>phrase</key><string>Ĥ</string><key>shortcut</key><string>\hat{H}</string></dict>
 	<dict><key>phrase</key><string>ĥ</string><key>shortcut</key><string>\hat{h}</string></dict>
 	<dict><key>phrase</key><string>ħ</string><key>shortcut</key><string>\textcrh</string></dict>
-	<dict><key>phrase</key><string>Ĩ</string><key>shortcut</key><string>\tilde{I}</string></dict>
 	<dict><key>phrase</key><string>ĩ</string><key>shortcut</key><string>\tilde{i}</string></dict>
-	<dict><key>phrase</key><string>Ĩ</string><key>shortcut</key><string>\~I</string></dict>
 	<dict><key>phrase</key><string>ĩ</string><key>shortcut</key><string>\~i</string></dict>
-	<dict><key>phrase</key><string>Ĩ</string><key>shortcut</key><string>\~{I}</string></dict>
 	<dict><key>phrase</key><string>ĩ</string><key>shortcut</key><string>\~{i}</string></dict>
-	<dict><key>phrase</key><string>Ī</string><key>shortcut</key><string>\=I</string></dict>
 	<dict><key>phrase</key><string>ī</string><key>shortcut</key><string>\=i</string></dict>
-	<dict><key>phrase</key><string>Ī</string><key>shortcut</key><string>\={I}</string></dict>
 	<dict><key>phrase</key><string>ī</string><key>shortcut</key><string>\={i}</string></dict>
-	<dict><key>phrase</key><string>Ī</string><key>shortcut</key><string>\bar{I}</string></dict>
 	<dict><key>phrase</key><string>ī</string><key>shortcut</key><string>\bar{i}</string></dict>
-	<dict><key>phrase</key><string>Ĭ</string><key>shortcut</key><string>\breve{I}</string></dict>
 	<dict><key>phrase</key><string>ĭ</string><key>shortcut</key><string>\breve{i}</string></dict>
-	<dict><key>phrase</key><string>Ĭ</string><key>shortcut</key><string>\u{I}</string></dict>
 	<dict><key>phrase</key><string>ĭ</string><key>shortcut</key><string>\u{i}</string></dict>
-	<dict><key>phrase</key><string>Ĵ</string><key>shortcut</key><string>\^J</string></dict>
 	<dict><key>phrase</key><string>ĵ</string><key>shortcut</key><string>\^j</string></dict>
-	<dict><key>phrase</key><string>Ĵ</string><key>shortcut</key><string>\^{J}</string></dict>
 	<dict><key>phrase</key><string>ĵ</string><key>shortcut</key><string>\^{j}</string></dict>
-	<dict><key>phrase</key><string>Ĵ</string><key>shortcut</key><string>\hat{J}</string></dict>
 	<dict><key>phrase</key><string>ĵ</string><key>shortcut</key><string>\hat{j}</string></dict>
-	<dict><key>phrase</key><string>Ĺ</string><key>shortcut</key><string>\&apos;L</string></dict>
 	<dict><key>phrase</key><string>ĺ</string><key>shortcut</key><string>\&apos;l</string></dict>
-	<dict><key>phrase</key><string>Ĺ</string><key>shortcut</key><string>\&apos;{L}</string></dict>
 	<dict><key>phrase</key><string>ĺ</string><key>shortcut</key><string>\&apos;{l}</string></dict>
-	<dict><key>phrase</key><string>Ĺ</string><key>shortcut</key><string>\acute{L}</string></dict>
 	<dict><key>phrase</key><string>ĺ</string><key>shortcut</key><string>\acute{l}</string></dict>
-	<dict><key>phrase</key><string>Ł</string><key>shortcut</key><string>\L</string></dict>
 	<dict><key>phrase</key><string>ł</string><key>shortcut</key><string>\l</string></dict>
-	<dict><key>phrase</key><string>Ł</string><key>shortcut</key><string>{\L}</string></dict>
 	<dict><key>phrase</key><string>ł</string><key>shortcut</key><string>{\l}</string></dict>
-	<dict><key>phrase</key><string>Ń</string><key>shortcut</key><string>\&apos;N</string></dict>
 	<dict><key>phrase</key><string>ń</string><key>shortcut</key><string>\&apos;n</string></dict>
 	<dict><key>phrase</key><string>ń</string><key>shortcut</key><string>\&apos;{n}</string></dict>
-	<dict><key>phrase</key><string>Ń</string><key>shortcut</key><string>\acute{N}</string></dict>
 	<dict><key>phrase</key><string>ń</string><key>shortcut</key><string>\acute{n}</string></dict>
-	<dict><key>phrase</key><string>Ň</string><key>shortcut</key><string>\check{N}</string></dict>
 	<dict><key>phrase</key><string>ň</string><key>shortcut</key><string>\check{n}</string></dict>
-	<dict><key>phrase</key><string>Ň</string><key>shortcut</key><string>\v{N}</string></dict>
 	<dict><key>phrase</key><string>ň</string><key>shortcut</key><string>\v{n}</string></dict>
 	<dict><key>phrase</key><string>ŋ</string><key>shortcut</key><string>\ng</string></dict>
-	<dict><key>phrase</key><string>Ō</string><key>shortcut</key><string>\=O</string></dict>
 	<dict><key>phrase</key><string>ō</string><key>shortcut</key><string>\=o</string></dict>
-	<dict><key>phrase</key><string>Ō</string><key>shortcut</key><string>\={O}</string></dict>
 	<dict><key>phrase</key><string>ō</string><key>shortcut</key><string>\={o}</string></dict>
-	<dict><key>phrase</key><string>Ō</string><key>shortcut</key><string>\bar{O}</string></dict>
 	<dict><key>phrase</key><string>ō</string><key>shortcut</key><string>\bar{o}</string></dict>
-	<dict><key>phrase</key><string>Ŏ</string><key>shortcut</key><string>\breve{O}</string></dict>
 	<dict><key>phrase</key><string>ŏ</string><key>shortcut</key><string>\breve{o}</string></dict>
-	<dict><key>phrase</key><string>Ŏ</string><key>shortcut</key><string>\u{O}</string></dict>
 	<dict><key>phrase</key><string>ŏ</string><key>shortcut</key><string>\u{o}</string></dict>
-	<dict><key>phrase</key><string>Œ</string><key>shortcut</key><string>\OE</string></dict>
 	<dict><key>phrase</key><string>œ</string><key>shortcut</key><string>\oe</string></dict>
-	<dict><key>phrase</key><string>Œ</string><key>shortcut</key><string>{\OE}</string></dict>
 	<dict><key>phrase</key><string>œ</string><key>shortcut</key><string>{\oe}</string></dict>
-	<dict><key>phrase</key><string>Ŕ</string><key>shortcut</key><string>\&apos;R</string></dict>
 	<dict><key>phrase</key><string>ŕ</string><key>shortcut</key><string>\&apos;r</string></dict>
-	<dict><key>phrase</key><string>Ŕ</string><key>shortcut</key><string>\&apos;{R}</string></dict>
 	<dict><key>phrase</key><string>ŕ</string><key>shortcut</key><string>\&apos;{r}</string></dict>
-	<dict><key>phrase</key><string>Ŕ</string><key>shortcut</key><string>\acute{R}</string></dict>
 	<dict><key>phrase</key><string>ŕ</string><key>shortcut</key><string>\acute{r}</string></dict>
-	<dict><key>phrase</key><string>Ř</string><key>shortcut</key><string>\check{R}</string></dict>
 	<dict><key>phrase</key><string>ř</string><key>shortcut</key><string>\check{r}</string></dict>
-	<dict><key>phrase</key><string>Ř</string><key>shortcut</key><string>\v{R}</string></dict>
 	<dict><key>phrase</key><string>ř</string><key>shortcut</key><string>\v{r}</string></dict>
-	<dict><key>phrase</key><string>Ś</string><key>shortcut</key><string>\&apos;S</string></dict>
 	<dict><key>phrase</key><string>ś</string><key>shortcut</key><string>\&apos;s</string></dict>
-	<dict><key>phrase</key><string>Ś</string><key>shortcut</key><string>\&apos;{S}</string></dict>
 	<dict><key>phrase</key><string>ś</string><key>shortcut</key><string>\&apos;{s}</string></dict>
-	<dict><key>phrase</key><string>Ś</string><key>shortcut</key><string>\acute{S}</string></dict>
 	<dict><key>phrase</key><string>ś</string><key>shortcut</key><string>\acute{s}</string></dict>
-	<dict><key>phrase</key><string>Ŝ</string><key>shortcut</key><string>\^S</string></dict>
 	<dict><key>phrase</key><string>ŝ</string><key>shortcut</key><string>\^s</string></dict>
-	<dict><key>phrase</key><string>Ŝ</string><key>shortcut</key><string>\^{S}</string></dict>
 	<dict><key>phrase</key><string>ŝ</string><key>shortcut</key><string>\^{s}</string></dict>
-	<dict><key>phrase</key><string>Ŝ</string><key>shortcut</key><string>\hat{S}</string></dict>
 	<dict><key>phrase</key><string>ŝ</string><key>shortcut</key><string>\hat{s}</string></dict>
-	<dict><key>phrase</key><string>Š</string><key>shortcut</key><string>\check{S}</string></dict>
 	<dict><key>phrase</key><string>š</string><key>shortcut</key><string>\check{s}</string></dict>
-	<dict><key>phrase</key><string>Š</string><key>shortcut</key><string>\v{S}</string></dict>
 	<dict><key>phrase</key><string>š</string><key>shortcut</key><string>\v{s}</string></dict>
-	<dict><key>phrase</key><string>Ť</string><key>shortcut</key><string>\check{T}</string></dict>
 	<dict><key>phrase</key><string>ť</string><key>shortcut</key><string>\check{t}</string></dict>
-	<dict><key>phrase</key><string>Ť</string><key>shortcut</key><string>\v{T}</string></dict>
 	<dict><key>phrase</key><string>ť</string><key>shortcut</key><string>\v{t}</string></dict>
-	<dict><key>phrase</key><string>Ũ</string><key>shortcut</key><string>\tilde{U}</string></dict>
 	<dict><key>phrase</key><string>ũ</string><key>shortcut</key><string>\tilde{u}</string></dict>
-	<dict><key>phrase</key><string>Ũ</string><key>shortcut</key><string>\~U</string></dict>
 	<dict><key>phrase</key><string>ũ</string><key>shortcut</key><string>\~u</string></dict>
-	<dict><key>phrase</key><string>Ũ</string><key>shortcut</key><string>\~{U}</string></dict>
 	<dict><key>phrase</key><string>ũ</string><key>shortcut</key><string>\~{u}</string></dict>
-	<dict><key>phrase</key><string>Ū</string><key>shortcut</key><string>\=U</string></dict>
 	<dict><key>phrase</key><string>ū</string><key>shortcut</key><string>\=u</string></dict>
-	<dict><key>phrase</key><string>Ū</string><key>shortcut</key><string>\={U}</string></dict>
 	<dict><key>phrase</key><string>ū</string><key>shortcut</key><string>\={u}</string></dict>
-	<dict><key>phrase</key><string>Ū</string><key>shortcut</key><string>\bar{U}</string></dict>
 	<dict><key>phrase</key><string>ū</string><key>shortcut</key><string>\bar{u}</string></dict>
-	<dict><key>phrase</key><string>Ŭ</string><key>shortcut</key><string>\breve{U}</string></dict>
 	<dict><key>phrase</key><string>ŭ</string><key>shortcut</key><string>\breve{u}</string></dict>
-	<dict><key>phrase</key><string>Ŭ</string><key>shortcut</key><string>\u{U}</string></dict>
 	<dict><key>phrase</key><string>ŭ</string><key>shortcut</key><string>\u{u}</string></dict>
-	<dict><key>phrase</key><string>Ŵ</string><key>shortcut</key><string>\^W</string></dict>
 	<dict><key>phrase</key><string>ŵ</string><key>shortcut</key><string>\^w</string></dict>
-	<dict><key>phrase</key><string>Ŵ</string><key>shortcut</key><string>\^{W}</string></dict>
 	<dict><key>phrase</key><string>ŵ</string><key>shortcut</key><string>\^{w}</string></dict>
-	<dict><key>phrase</key><string>Ŵ</string><key>shortcut</key><string>\hat{W}</string></dict>
 	<dict><key>phrase</key><string>ŵ</string><key>shortcut</key><string>\hat{w}</string></dict>
-	<dict><key>phrase</key><string>Ŷ</string><key>shortcut</key><string>\^Y</string></dict>
 	<dict><key>phrase</key><string>ŷ</string><key>shortcut</key><string>\^y</string></dict>
-	<dict><key>phrase</key><string>Ŷ</string><key>shortcut</key><string>\^{Y}</string></dict>
 	<dict><key>phrase</key><string>ŷ</string><key>shortcut</key><string>\^{y}</string></dict>
-	<dict><key>phrase</key><string>Ŷ</string><key>shortcut</key><string>\hat{Y}</string></dict>
 	<dict><key>phrase</key><string>ŷ</string><key>shortcut</key><string>\hat{y}</string></dict>
-	<dict><key>phrase</key><string>Ź</string><key>shortcut</key><string>\&apos;Z</string></dict>
 	<dict><key>phrase</key><string>ź</string><key>shortcut</key><string>\&apos;z</string></dict>
-	<dict><key>phrase</key><string>Ź</string><key>shortcut</key><string>\&apos;{Z}</string></dict>
 	<dict><key>phrase</key><string>ź</string><key>shortcut</key><string>\&apos;{z}</string></dict>
-	<dict><key>phrase</key><string>Ź</string><key>shortcut</key><string>\acute{Z}</string></dict>
 	<dict><key>phrase</key><string>ź</string><key>shortcut</key><string>\acute{z}</string></dict>
-	<dict><key>phrase</key><string>Ż</string><key>shortcut</key><string>\.Z</string></dict>
 	<dict><key>phrase</key><string>ż</string><key>shortcut</key><string>\.z</string></dict>
-	<dict><key>phrase</key><string>Ż</string><key>shortcut</key><string>\.{Z}</string></dict>
 	<dict><key>phrase</key><string>ż</string><key>shortcut</key><string>\.{z}</string></dict>
-	<dict><key>phrase</key><string>Ż</string><key>shortcut</key><string>\dot{Z}</string></dict>
 	<dict><key>phrase</key><string>ż</string><key>shortcut</key><string>\dot{z}</string></dict>
-	<dict><key>phrase</key><string>Ž</string><key>shortcut</key><string>\check{Z}</string></dict>
 	<dict><key>phrase</key><string>ž</string><key>shortcut</key><string>\check{z}</string></dict>
-	<dict><key>phrase</key><string>Ž</string><key>shortcut</key><string>\v{Z}</string></dict>
 	<dict><key>phrase</key><string>ž</string><key>shortcut</key><string>\v{z}</string></dict>
 	<dict><key>phrase</key><string>ǀ</string><key>shortcut</key><string>\textpipe</string></dict>
 	<dict><key>phrase</key><string>ǁ</string><key>shortcut</key><string>\textdoublepipe</string></dict>
-	<dict><key>phrase</key><string>Ǎ</string><key>shortcut</key><string>\check{A}</string></dict>
 	<dict><key>phrase</key><string>ǎ</string><key>shortcut</key><string>\check{a}</string></dict>
-	<dict><key>phrase</key><string>Ǎ</string><key>shortcut</key><string>\v{A}</string></dict>
 	<dict><key>phrase</key><string>ǎ</string><key>shortcut</key><string>\v{a}</string></dict>
-	<dict><key>phrase</key><string>Ǵ</string><key>shortcut</key><string>\&apos;G</string></dict>
 	<dict><key>phrase</key><string>ǵ</string><key>shortcut</key><string>\&apos;g</string></dict>
-	<dict><key>phrase</key><string>Ǵ</string><key>shortcut</key><string>\&apos;{G}</string></dict>
 	<dict><key>phrase</key><string>ǵ</string><key>shortcut</key><string>\&apos;{g}</string></dict>
-	<dict><key>phrase</key><string>Ǵ</string><key>shortcut</key><string>\acute{G}</string></dict>
 	<dict><key>phrase</key><string>ǵ</string><key>shortcut</key><string>\acute{g}</string></dict>
 	<dict><key>phrase</key><string>Ǹ</string><key>shortcut</key><string>\&apos;{N}</string></dict>
-	<dict><key>phrase</key><string>Ǹ</string><key>shortcut</key><string>\`N</string></dict>
 	<dict><key>phrase</key><string>ǹ</string><key>shortcut</key><string>\`n</string></dict>
 	<dict><key>phrase</key><string>ǹ</string><key>shortcut</key><string>\`{n}</string></dict>
 	<dict><key>phrase</key><string>ǹ</string><key>shortcut</key><string>\grave{n}</string></dict>
-	<dict><key>phrase</key><string>Ȧ</string><key>shortcut</key><string>\.A</string></dict>
 	<dict><key>phrase</key><string>ȧ</string><key>shortcut</key><string>\.a</string></dict>
-	<dict><key>phrase</key><string>Ȧ</string><key>shortcut</key><string>\.{A}</string></dict>
 	<dict><key>phrase</key><string>ȧ</string><key>shortcut</key><string>\.{a}</string></dict>
-	<dict><key>phrase</key><string>Ȧ</string><key>shortcut</key><string>\dot{A}</string></dict>
 	<dict><key>phrase</key><string>ȧ</string><key>shortcut</key><string>\dot{a}</string></dict>
-	<dict><key>phrase</key><string>Ȯ</string><key>shortcut</key><string>\.O</string></dict>
 	<dict><key>phrase</key><string>ȯ</string><key>shortcut</key><string>\.o</string></dict>
-	<dict><key>phrase</key><string>Ȯ</string><key>shortcut</key><string>\.{O}</string></dict>
 	<dict><key>phrase</key><string>ȯ</string><key>shortcut</key><string>\.{o}</string></dict>
-	<dict><key>phrase</key><string>Ȯ</string><key>shortcut</key><string>\dot{O}</string></dict>
 	<dict><key>phrase</key><string>ȯ</string><key>shortcut</key><string>\dot{o}</string></dict>
-	<dict><key>phrase</key><string>Ȳ</string><key>shortcut</key><string>\=Y</string></dict>
 	<dict><key>phrase</key><string>ȳ</string><key>shortcut</key><string>\=y</string></dict>
-	<dict><key>phrase</key><string>Ȳ</string><key>shortcut</key><string>\={Y}</string></dict>
 	<dict><key>phrase</key><string>ȳ</string><key>shortcut</key><string>\={y}</string></dict>
-	<dict><key>phrase</key><string>Ȳ</string><key>shortcut</key><string>\bar{Y}</string></dict>
 	<dict><key>phrase</key><string>ȳ</string><key>shortcut</key><string>\bar{y}</string></dict>
 	<dict><key>phrase</key><string>ɐ</string><key>shortcut</key><string>\textturna</string></dict>
 	<dict><key>phrase</key><string>ɑ</string><key>shortcut</key><string>\textscripta</string></dict>
@@ -529,58 +328,36 @@
 	<dict><key>phrase</key><string>ˡ</string><key>shortcut</key><string>^l</string></dict>
 	<dict><key>phrase</key><string>ˢ</string><key>shortcut</key><string>^s</string></dict>
 	<dict><key>phrase</key><string>ˣ</string><key>shortcut</key><string>^x</string></dict>
-	<dict><key>phrase</key><string>Α</string><key>shortcut</key><string>\Alpha</string></dict>
 	<dict><key>phrase</key><string>α</string><key>shortcut</key><string>\alpha</string></dict>
-	<dict><key>phrase</key><string>Β</string><key>shortcut</key><string>\Beta</string></dict>
 	<dict><key>phrase</key><string>β</string><key>shortcut</key><string>\beta</string></dict>
 	<dict><key>phrase</key><string>β</string><key>shortcut</key><string>\textbeta</string></dict>
-	<dict><key>phrase</key><string>Γ</string><key>shortcut</key><string>\Gamma</string></dict>
 	<dict><key>phrase</key><string>γ</string><key>shortcut</key><string>\gamma</string></dict>
 	<dict><key>phrase</key><string>γ</string><key>shortcut</key><string>\textgrgamma</string></dict>
-	<dict><key>phrase</key><string>Δ</string><key>shortcut</key><string>\Delta</string></dict>
 	<dict><key>phrase</key><string>δ</string><key>shortcut</key><string>\delta</string></dict>
 	<dict><key>phrase</key><string>Ε</string><key>shortcut</key><string>\Epsilon</string></dict>
 	<dict><key>phrase</key><string>ε</string><key>shortcut</key><string>\varepsilon</string></dict>
-	<dict><key>phrase</key><string>Ζ</string><key>shortcut</key><string>\Zeta</string></dict>
 	<dict><key>phrase</key><string>ζ</string><key>shortcut</key><string>\zeta</string></dict>
-	<dict><key>phrase</key><string>Η</string><key>shortcut</key><string>\Eta</string></dict>
 	<dict><key>phrase</key><string>η</string><key>shortcut</key><string>\eta</string></dict>
 	<dict><key>phrase</key><string>θ</string><key>shortcut</key><string>\texttheta</string></dict>
-	<dict><key>phrase</key><string>Θ</string><key>shortcut</key><string>\Theta</string></dict>
 	<dict><key>phrase</key><string>θ</string><key>shortcut</key><string>\theta</string></dict>
 	<dict><key>phrase</key><string>ι</string><key>shortcut</key><string>\iota</string></dict>
 	<dict><key>phrase</key><string>ι</string><key>shortcut</key><string>\textiota</string></dict>
-	<dict><key>phrase</key><string>Κ</string><key>shortcut</key><string>\Kappa</string></dict>
 	<dict><key>phrase</key><string>κ</string><key>shortcut</key><string>\kappa</string></dict>
-	<dict><key>phrase</key><string>Λ</string><key>shortcut</key><string>\Lambda</string></dict>
 	<dict><key>phrase</key><string>λ</string><key>shortcut</key><string>\lambda</string></dict>
-	<dict><key>phrase</key><string>Μ</string><key>shortcut</key><string>\Mu</string></dict>
 	<dict><key>phrase</key><string>μ</string><key>shortcut</key><string>\mu</string></dict>
-	<dict><key>phrase</key><string>Ν</string><key>shortcut</key><string>\Nu</string></dict>
 	<dict><key>phrase</key><string>ν</string><key>shortcut</key><string>\nu</string></dict>
-	<dict><key>phrase</key><string>Ξ</string><key>shortcut</key><string>\Xi</string></dict>
 	<dict><key>phrase</key><string>ξ</string><key>shortcut</key><string>\xi</string></dict>
-	<dict><key>phrase</key><string>Ο</string><key>shortcut</key><string>\Omicron</string></dict>
 	<dict><key>phrase</key><string>ο</string><key>shortcut</key><string>\omicron</string></dict>
-	<dict><key>phrase</key><string>Π</string><key>shortcut</key><string>\Pi</string></dict>
 	<dict><key>phrase</key><string>π</string><key>shortcut</key><string>\pi</string></dict>
-	<dict><key>phrase</key><string>Ρ</string><key>shortcut</key><string>\Rho</string></dict>
 	<dict><key>phrase</key><string>ρ</string><key>shortcut</key><string>\rho</string></dict>
 	<dict><key>phrase</key><string>ς</string><key>shortcut</key><string>\varsigma</string></dict>
-	<dict><key>phrase</key><string>Σ</string><key>shortcut</key><string>\Sigma</string></dict>
 	<dict><key>phrase</key><string>σ</string><key>shortcut</key><string>\sigma</string></dict>
-	<dict><key>phrase</key><string>Τ</string><key>shortcut</key><string>\Tau</string></dict>
 	<dict><key>phrase</key><string>τ</string><key>shortcut</key><string>\tau</string></dict>
-	<dict><key>phrase</key><string>Υ</string><key>shortcut</key><string>\Upsilon</string></dict>
 	<dict><key>phrase</key><string>υ</string><key>shortcut</key><string>\upsilon</string></dict>
-	<dict><key>phrase</key><string>Φ</string><key>shortcut</key><string>\Phi</string></dict>
 	<dict><key>phrase</key><string>φ</string><key>shortcut</key><string>\phi</string></dict>
-	<dict><key>phrase</key><string>Χ</string><key>shortcut</key><string>\Chi</string></dict>
 	<dict><key>phrase</key><string>χ</string><key>shortcut</key><string>\chi</string></dict>
 	<dict><key>phrase</key><string>χ</string><key>shortcut</key><string>\textchi</string></dict>
-	<dict><key>phrase</key><string>Ψ</string><key>shortcut</key><string>\Psi</string></dict>
 	<dict><key>phrase</key><string>ψ</string><key>shortcut</key><string>\psi</string></dict>
-	<dict><key>phrase</key><string>Ω</string><key>shortcut</key><string>\Omega</string></dict>
 	<dict><key>phrase</key><string>ω</string><key>shortcut</key><string>\omega</string></dict>
 	<dict><key>phrase</key><string>ϑ</string><key>shortcut</key><string>\vartheta</string></dict>
 	<dict><key>phrase</key><string>ϕ</string><key>shortcut</key><string>\varphi</string></dict>
@@ -640,202 +417,105 @@
 	<dict><key>phrase</key><string>ᶲ</string><key>shortcut</key><string>^\phi</string></dict>
 	<dict><key>phrase</key><string>ᶻ</string><key>shortcut</key><string>^z</string></dict>
 	<dict><key>phrase</key><string>ᶿ</string><key>shortcut</key><string>^\theta</string></dict>
-	<dict><key>phrase</key><string>Ḃ</string><key>shortcut</key><string>\.B</string></dict>
 	<dict><key>phrase</key><string>ḃ</string><key>shortcut</key><string>\.b</string></dict>
-	<dict><key>phrase</key><string>Ḃ</string><key>shortcut</key><string>\.{B}</string></dict>
 	<dict><key>phrase</key><string>ḃ</string><key>shortcut</key><string>\.{b}</string></dict>
-	<dict><key>phrase</key><string>Ḃ</string><key>shortcut</key><string>\dot{B}</string></dict>
 	<dict><key>phrase</key><string>ḃ</string><key>shortcut</key><string>\dot{b}</string></dict>
-	<dict><key>phrase</key><string>Ḅ</string><key>shortcut</key><string>\d{B}</string></dict>
 	<dict><key>phrase</key><string>ḅ</string><key>shortcut</key><string>\d{b}</string></dict>
-	<dict><key>phrase</key><string>Ḋ</string><key>shortcut</key><string>\.D</string></dict>
 	<dict><key>phrase</key><string>ḋ</string><key>shortcut</key><string>\.d</string></dict>
-	<dict><key>phrase</key><string>Ḋ</string><key>shortcut</key><string>\.{D}</string></dict>
 	<dict><key>phrase</key><string>ḋ</string><key>shortcut</key><string>\.{d}</string></dict>
-	<dict><key>phrase</key><string>Ḋ</string><key>shortcut</key><string>\dot{D}</string></dict>
 	<dict><key>phrase</key><string>ḋ</string><key>shortcut</key><string>\dot{d}</string></dict>
-	<dict><key>phrase</key><string>Ḍ</string><key>shortcut</key><string>\d{D}</string></dict>
 	<dict><key>phrase</key><string>ḍ</string><key>shortcut</key><string>\d{d}</string></dict>
-	<dict><key>phrase</key><string>Ḟ</string><key>shortcut</key><string>\.F</string></dict>
 	<dict><key>phrase</key><string>ḟ</string><key>shortcut</key><string>\.f</string></dict>
-	<dict><key>phrase</key><string>Ḟ</string><key>shortcut</key><string>\.{F}</string></dict>
 	<dict><key>phrase</key><string>ḟ</string><key>shortcut</key><string>\.{f}</string></dict>
-	<dict><key>phrase</key><string>Ḟ</string><key>shortcut</key><string>\dot{F}</string></dict>
 	<dict><key>phrase</key><string>ḟ</string><key>shortcut</key><string>\dot{f}</string></dict>
-	<dict><key>phrase</key><string>Ḡ</string><key>shortcut</key><string>\=G</string></dict>
 	<dict><key>phrase</key><string>ḡ</string><key>shortcut</key><string>\=g</string></dict>
-	<dict><key>phrase</key><string>Ḡ</string><key>shortcut</key><string>\={G}</string></dict>
 	<dict><key>phrase</key><string>ḡ</string><key>shortcut</key><string>\={g}</string></dict>
-	<dict><key>phrase</key><string>Ḡ</string><key>shortcut</key><string>\bar{G}</string></dict>
 	<dict><key>phrase</key><string>ḡ</string><key>shortcut</key><string>\bar{g}</string></dict>
-	<dict><key>phrase</key><string>Ḣ</string><key>shortcut</key><string>\.H</string></dict>
 	<dict><key>phrase</key><string>ḣ</string><key>shortcut</key><string>\.h</string></dict>
-	<dict><key>phrase</key><string>Ḣ</string><key>shortcut</key><string>\.{H}</string></dict>
 	<dict><key>phrase</key><string>ḣ</string><key>shortcut</key><string>\.{h}</string></dict>
-	<dict><key>phrase</key><string>Ḣ</string><key>shortcut</key><string>\dot{H}</string></dict>
 	<dict><key>phrase</key><string>ḣ</string><key>shortcut</key><string>\dot{h}</string></dict>
-	<dict><key>phrase</key><string>Ḥ</string><key>shortcut</key><string>\d{H}</string></dict>
 	<dict><key>phrase</key><string>ḥ</string><key>shortcut</key><string>\d{h}</string></dict>
-	<dict><key>phrase</key><string>Ḧ</string><key>shortcut</key><string>\&quot;H</string></dict>
 	<dict><key>phrase</key><string>ḧ</string><key>shortcut</key><string>\&quot;h</string></dict>
-	<dict><key>phrase</key><string>Ḧ</string><key>shortcut</key><string>\&quot;{H}</string></dict>
 	<dict><key>phrase</key><string>ḧ</string><key>shortcut</key><string>\&quot;{h}</string></dict>
-	<dict><key>phrase</key><string>Ḧ</string><key>shortcut</key><string>\ddot{H}</string></dict>
 	<dict><key>phrase</key><string>ḧ</string><key>shortcut</key><string>\ddot{h}</string></dict>
-	<dict><key>phrase</key><string>Ḱ</string><key>shortcut</key><string>\&apos;K</string></dict>
 	<dict><key>phrase</key><string>ḱ</string><key>shortcut</key><string>\&apos;k</string></dict>
-	<dict><key>phrase</key><string>Ḱ</string><key>shortcut</key><string>\&apos;{K}</string></dict>
 	<dict><key>phrase</key><string>ḱ</string><key>shortcut</key><string>\&apos;{k}</string></dict>
-	<dict><key>phrase</key><string>Ḱ</string><key>shortcut</key><string>\acute{K}</string></dict>
 	<dict><key>phrase</key><string>ḱ</string><key>shortcut</key><string>\acute{k}</string></dict>
-	<dict><key>phrase</key><string>Ḳ</string><key>shortcut</key><string>\d{K}</string></dict>
 	<dict><key>phrase</key><string>ḳ</string><key>shortcut</key><string>\d{k}</string></dict>
-	<dict><key>phrase</key><string>Ḷ</string><key>shortcut</key><string>\d{L}</string></dict>
 	<dict><key>phrase</key><string>ḷ</string><key>shortcut</key><string>\d{l}</string></dict>
-	<dict><key>phrase</key><string>Ḿ</string><key>shortcut</key><string>\&apos;M</string></dict>
 	<dict><key>phrase</key><string>ḿ</string><key>shortcut</key><string>\&apos;m</string></dict>
-	<dict><key>phrase</key><string>Ḿ</string><key>shortcut</key><string>\&apos;{M}</string></dict>
 	<dict><key>phrase</key><string>ḿ</string><key>shortcut</key><string>\&apos;{m}</string></dict>
-	<dict><key>phrase</key><string>Ḿ</string><key>shortcut</key><string>\acute{M}</string></dict>
 	<dict><key>phrase</key><string>ḿ</string><key>shortcut</key><string>\acute{m}</string></dict>
-	<dict><key>phrase</key><string>Ṁ</string><key>shortcut</key><string>\.M</string></dict>
 	<dict><key>phrase</key><string>ṁ</string><key>shortcut</key><string>\.m</string></dict>
-	<dict><key>phrase</key><string>Ṁ</string><key>shortcut</key><string>\.{M}</string></dict>
 	<dict><key>phrase</key><string>ṁ</string><key>shortcut</key><string>\.{m}</string></dict>
-	<dict><key>phrase</key><string>Ṁ</string><key>shortcut</key><string>\dot{M}</string></dict>
 	<dict><key>phrase</key><string>ṁ</string><key>shortcut</key><string>\dot{m}</string></dict>
-	<dict><key>phrase</key><string>Ṃ</string><key>shortcut</key><string>\d{M}</string></dict>
 	<dict><key>phrase</key><string>ṃ</string><key>shortcut</key><string>\d{m}</string></dict>
-	<dict><key>phrase</key><string>Ṅ</string><key>shortcut</key><string>\.N</string></dict>
 	<dict><key>phrase</key><string>ṅ</string><key>shortcut</key><string>\.n</string></dict>
-	<dict><key>phrase</key><string>Ṅ</string><key>shortcut</key><string>\.{N}</string></dict>
 	<dict><key>phrase</key><string>ṅ</string><key>shortcut</key><string>\.{n}</string></dict>
-	<dict><key>phrase</key><string>Ṅ</string><key>shortcut</key><string>\dot{N}</string></dict>
 	<dict><key>phrase</key><string>ṅ</string><key>shortcut</key><string>\dot{n}</string></dict>
-	<dict><key>phrase</key><string>Ṇ</string><key>shortcut</key><string>\d{N}</string></dict>
 	<dict><key>phrase</key><string>ṇ</string><key>shortcut</key><string>\d{n}</string></dict>
-	<dict><key>phrase</key><string>Ṕ</string><key>shortcut</key><string>\&apos;P</string></dict>
 	<dict><key>phrase</key><string>ṕ</string><key>shortcut</key><string>\&apos;p</string></dict>
-	<dict><key>phrase</key><string>Ṕ</string><key>shortcut</key><string>\&apos;{P}</string></dict>
 	<dict><key>phrase</key><string>ṕ</string><key>shortcut</key><string>\&apos;{p}</string></dict>
-	<dict><key>phrase</key><string>Ṕ</string><key>shortcut</key><string>\acute{P}</string></dict>
 	<dict><key>phrase</key><string>ṕ</string><key>shortcut</key><string>\acute{p}</string></dict>
-	<dict><key>phrase</key><string>Ṗ</string><key>shortcut</key><string>\.P</string></dict>
 	<dict><key>phrase</key><string>ṗ</string><key>shortcut</key><string>\.p</string></dict>
-	<dict><key>phrase</key><string>Ṗ</string><key>shortcut</key><string>\.{P}</string></dict>
 	<dict><key>phrase</key><string>ṗ</string><key>shortcut</key><string>\.{p}</string></dict>
-	<dict><key>phrase</key><string>Ṗ</string><key>shortcut</key><string>\dot{P}</string></dict>
 	<dict><key>phrase</key><string>ṗ</string><key>shortcut</key><string>\dot{p}</string></dict>
-	<dict><key>phrase</key><string>Ṙ</string><key>shortcut</key><string>\.R</string></dict>
 	<dict><key>phrase</key><string>ṙ</string><key>shortcut</key><string>\.r</string></dict>
-	<dict><key>phrase</key><string>Ṙ</string><key>shortcut</key><string>\.{R}</string></dict>
 	<dict><key>phrase</key><string>ṙ</string><key>shortcut</key><string>\.{r}</string></dict>
-	<dict><key>phrase</key><string>Ṙ</string><key>shortcut</key><string>\dot{R}</string></dict>
 	<dict><key>phrase</key><string>ṙ</string><key>shortcut</key><string>\dot{r}</string></dict>
-	<dict><key>phrase</key><string>Ṛ</string><key>shortcut</key><string>\d{R}</string></dict>
 	<dict><key>phrase</key><string>ṛ</string><key>shortcut</key><string>\d{r}</string></dict>
-	<dict><key>phrase</key><string>Ṡ</string><key>shortcut</key><string>\.S</string></dict>
 	<dict><key>phrase</key><string>ṡ</string><key>shortcut</key><string>\.s</string></dict>
-	<dict><key>phrase</key><string>Ṡ</string><key>shortcut</key><string>\.{S}</string></dict>
 	<dict><key>phrase</key><string>ṡ</string><key>shortcut</key><string>\.{s}</string></dict>
-	<dict><key>phrase</key><string>Ṡ</string><key>shortcut</key><string>\dot{S}</string></dict>
 	<dict><key>phrase</key><string>ṡ</string><key>shortcut</key><string>\dot{s}</string></dict>
-	<dict><key>phrase</key><string>Ṣ</string><key>shortcut</key><string>\d{S}</string></dict>
 	<dict><key>phrase</key><string>ṣ</string><key>shortcut</key><string>\d{s}</string></dict>
-	<dict><key>phrase</key><string>Ṫ</string><key>shortcut</key><string>\.T</string></dict>
 	<dict><key>phrase</key><string>ṫ</string><key>shortcut</key><string>\.t</string></dict>
-	<dict><key>phrase</key><string>Ṫ</string><key>shortcut</key><string>\.{T}</string></dict>
 	<dict><key>phrase</key><string>ṫ</string><key>shortcut</key><string>\.{t}</string></dict>
-	<dict><key>phrase</key><string>Ṫ</string><key>shortcut</key><string>\dot{T}</string></dict>
 	<dict><key>phrase</key><string>ṫ</string><key>shortcut</key><string>\dot{t}</string></dict>
-	<dict><key>phrase</key><string>Ṭ</string><key>shortcut</key><string>\d{T}</string></dict>
 	<dict><key>phrase</key><string>ṭ</string><key>shortcut</key><string>\d{t}</string></dict>
-	<dict><key>phrase</key><string>Ṿ</string><key>shortcut</key><string>\d{V}</string></dict>
 	<dict><key>phrase</key><string>ṿ</string><key>shortcut</key><string>\d{v}</string></dict>
-	<dict><key>phrase</key><string>Ẁ</string><key>shortcut</key><string>\`W</string></dict>
 	<dict><key>phrase</key><string>ẁ</string><key>shortcut</key><string>\`w</string></dict>
-	<dict><key>phrase</key><string>Ẁ</string><key>shortcut</key><string>\`{W}</string></dict>
 	<dict><key>phrase</key><string>ẁ</string><key>shortcut</key><string>\`{w}</string></dict>
-	<dict><key>phrase</key><string>Ẁ</string><key>shortcut</key><string>\grave{W}</string></dict>
 	<dict><key>phrase</key><string>ẁ</string><key>shortcut</key><string>\grave{w}</string></dict>
-	<dict><key>phrase</key><string>Ẃ</string><key>shortcut</key><string>\&apos;W</string></dict>
 	<dict><key>phrase</key><string>ẃ</string><key>shortcut</key><string>\&apos;w</string></dict>
-	<dict><key>phrase</key><string>Ẃ</string><key>shortcut</key><string>\&apos;{W}</string></dict>
 	<dict><key>phrase</key><string>ẃ</string><key>shortcut</key><string>\&apos;{w}</string></dict>
-	<dict><key>phrase</key><string>Ẃ</string><key>shortcut</key><string>\acute{W}</string></dict>
 	<dict><key>phrase</key><string>ẃ</string><key>shortcut</key><string>\acute{w}</string></dict>
-	<dict><key>phrase</key><string>Ẅ</string><key>shortcut</key><string>\&quot;W</string></dict>
 	<dict><key>phrase</key><string>ẅ</string><key>shortcut</key><string>\&quot;w</string></dict>
-	<dict><key>phrase</key><string>Ẅ</string><key>shortcut</key><string>\&quot;{W}</string></dict>
 	<dict><key>phrase</key><string>ẅ</string><key>shortcut</key><string>\&quot;{w}</string></dict>
-	<dict><key>phrase</key><string>Ẅ</string><key>shortcut</key><string>\ddot{W}</string></dict>
 	<dict><key>phrase</key><string>ẅ</string><key>shortcut</key><string>\ddot{w}</string></dict>
-	<dict><key>phrase</key><string>Ẇ</string><key>shortcut</key><string>\.W</string></dict>
 	<dict><key>phrase</key><string>ẇ</string><key>shortcut</key><string>\.w</string></dict>
-	<dict><key>phrase</key><string>Ẇ</string><key>shortcut</key><string>\.{W}</string></dict>
 	<dict><key>phrase</key><string>ẇ</string><key>shortcut</key><string>\.{w}</string></dict>
-	<dict><key>phrase</key><string>Ẇ</string><key>shortcut</key><string>\dot{W}</string></dict>
 	<dict><key>phrase</key><string>ẇ</string><key>shortcut</key><string>\dot{w}</string></dict>
-	<dict><key>phrase</key><string>Ẉ</string><key>shortcut</key><string>\d{W}</string></dict>
 	<dict><key>phrase</key><string>ẉ</string><key>shortcut</key><string>\d{w}</string></dict>
-	<dict><key>phrase</key><string>Ẋ</string><key>shortcut</key><string>\.X</string></dict>
 	<dict><key>phrase</key><string>ẋ</string><key>shortcut</key><string>\.x</string></dict>
-	<dict><key>phrase</key><string>Ẋ</string><key>shortcut</key><string>\.{X}</string></dict>
 	<dict><key>phrase</key><string>ẋ</string><key>shortcut</key><string>\.{x}</string></dict>
-	<dict><key>phrase</key><string>Ẋ</string><key>shortcut</key><string>\dot{X}</string></dict>
 	<dict><key>phrase</key><string>ẋ</string><key>shortcut</key><string>\dot{x}</string></dict>
-	<dict><key>phrase</key><string>Ẍ</string><key>shortcut</key><string>\&quot;X</string></dict>
 	<dict><key>phrase</key><string>ẍ</string><key>shortcut</key><string>\&quot;x</string></dict>
-	<dict><key>phrase</key><string>Ẍ</string><key>shortcut</key><string>\&quot;{X}</string></dict>
 	<dict><key>phrase</key><string>ẍ</string><key>shortcut</key><string>\&quot;{x}</string></dict>
-	<dict><key>phrase</key><string>Ẍ</string><key>shortcut</key><string>\ddot{X}</string></dict>
 	<dict><key>phrase</key><string>ẍ</string><key>shortcut</key><string>\ddot{x}</string></dict>
-	<dict><key>phrase</key><string>Ẏ</string><key>shortcut</key><string>\.Y</string></dict>
 	<dict><key>phrase</key><string>ẏ</string><key>shortcut</key><string>\.y</string></dict>
-	<dict><key>phrase</key><string>Ẏ</string><key>shortcut</key><string>\.{Y}</string></dict>
 	<dict><key>phrase</key><string>ẏ</string><key>shortcut</key><string>\.{y}</string></dict>
-	<dict><key>phrase</key><string>Ẏ</string><key>shortcut</key><string>\dot{Y}</string></dict>
 	<dict><key>phrase</key><string>ẏ</string><key>shortcut</key><string>\dot{y}</string></dict>
-	<dict><key>phrase</key><string>Ẑ</string><key>shortcut</key><string>\^Z</string></dict>
 	<dict><key>phrase</key><string>ẑ</string><key>shortcut</key><string>\^z</string></dict>
-	<dict><key>phrase</key><string>Ẑ</string><key>shortcut</key><string>\^{Z}</string></dict>
 	<dict><key>phrase</key><string>ẑ</string><key>shortcut</key><string>\^{z}</string></dict>
-	<dict><key>phrase</key><string>Ẑ</string><key>shortcut</key><string>\hat{Z}</string></dict>
 	<dict><key>phrase</key><string>ẑ</string><key>shortcut</key><string>\hat{z}</string></dict>
-	<dict><key>phrase</key><string>Ẓ</string><key>shortcut</key><string>\d{Z}</string></dict>
 	<dict><key>phrase</key><string>ẓ</string><key>shortcut</key><string>\d{z}</string></dict>
 	<dict><key>phrase</key><string>ẗ</string><key>shortcut</key><string>\&quot;t</string></dict>
 	<dict><key>phrase</key><string>ẗ</string><key>shortcut</key><string>\&quot;{t}</string></dict>
 	<dict><key>phrase</key><string>ẗ</string><key>shortcut</key><string>\ddot{t}</string></dict>
-	<dict><key>phrase</key><string>Ạ</string><key>shortcut</key><string>\d{A}</string></dict>
 	<dict><key>phrase</key><string>ạ</string><key>shortcut</key><string>\d{a}</string></dict>
-	<dict><key>phrase</key><string>Ẹ</string><key>shortcut</key><string>\d{E}</string></dict>
 	<dict><key>phrase</key><string>ẹ</string><key>shortcut</key><string>\d{e}</string></dict>
-	<dict><key>phrase</key><string>Ẽ</string><key>shortcut</key><string>\tilde{E}</string></dict>
 	<dict><key>phrase</key><string>ẽ</string><key>shortcut</key><string>\tilde{e}</string></dict>
-	<dict><key>phrase</key><string>Ẽ</string><key>shortcut</key><string>\~E</string></dict>
 	<dict><key>phrase</key><string>ẽ</string><key>shortcut</key><string>\~e</string></dict>
-	<dict><key>phrase</key><string>Ẽ</string><key>shortcut</key><string>\~{E}</string></dict>
 	<dict><key>phrase</key><string>ẽ</string><key>shortcut</key><string>\~{e}</string></dict>
-	<dict><key>phrase</key><string>Ị</string><key>shortcut</key><string>\d{I}</string></dict>
 	<dict><key>phrase</key><string>ị</string><key>shortcut</key><string>\d{i}</string></dict>
-	<dict><key>phrase</key><string>Ọ</string><key>shortcut</key><string>\d{O}</string></dict>
 	<dict><key>phrase</key><string>ọ</string><key>shortcut</key><string>\d{o}</string></dict>
-	<dict><key>phrase</key><string>Ụ</string><key>shortcut</key><string>\d{U}</string></dict>
 	<dict><key>phrase</key><string>ụ</string><key>shortcut</key><string>\d{u}</string></dict>
-	<dict><key>phrase</key><string>Ỳ</string><key>shortcut</key><string>\`Y</string></dict>
 	<dict><key>phrase</key><string>ỳ</string><key>shortcut</key><string>\`y</string></dict>
-	<dict><key>phrase</key><string>Ỳ</string><key>shortcut</key><string>\`{Y}</string></dict>
 	<dict><key>phrase</key><string>ỳ</string><key>shortcut</key><string>\`{y}</string></dict>
-	<dict><key>phrase</key><string>Ỳ</string><key>shortcut</key><string>\grave{Y}</string></dict>
 	<dict><key>phrase</key><string>ỳ</string><key>shortcut</key><string>\grave{y}</string></dict>
-	<dict><key>phrase</key><string>Ỵ</string><key>shortcut</key><string>\d{Y}</string></dict>
 	<dict><key>phrase</key><string>ỵ</string><key>shortcut</key><string>\d{y}</string></dict>
-	<dict><key>phrase</key><string>Ỹ</string><key>shortcut</key><string>\tilde{Y}</string></dict>
 	<dict><key>phrase</key><string>ỹ</string><key>shortcut</key><string>\tilde{y}</string></dict>
-	<dict><key>phrase</key><string>Ỹ</string><key>shortcut</key><string>\~Y</string></dict>
 	<dict><key>phrase</key><string>ỹ</string><key>shortcut</key><string>\~y</string></dict>
-	<dict><key>phrase</key><string>Ỹ</string><key>shortcut</key><string>\~{Y}</string></dict>
 	<dict><key>phrase</key><string>ỹ</string><key>shortcut</key><string>\~{y}</string></dict>
 	<dict><key>phrase</key><string>–</string><key>shortcut</key><string>--</string></dict>
 	<dict><key>phrase</key><string>—</string><key>shortcut</key><string>---</string></dict>
