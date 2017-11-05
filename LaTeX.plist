@@ -2,12 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<!--dict><key>phrase</key><string>¡</string><key>shortcut</key><string>!&apos;</string></dict>
-	<dict><key>phrase</key><string>′</string><key>shortcut</key><string>&apos;</string></dict>
-	<dict><key>phrase</key><string>″</string><key>shortcut</key><string>&apos;&apos;</string></dict>
-	<dict><key>phrase</key><string>‴</string><key>shortcut</key><string>&apos;&apos;&apos;</string></dict>
-	<dict><key>phrase</key><string>–</string><key>shortcut</key><string>--</string></dict>
-	<dict><key>phrase</key><string>—</string><key>shortcut</key><string>---</string></dict-->
 	<dict><key>phrase</key><string>begin</string><key>shortcut</key><string>%chardef</string></dict>
 	<dict><key>phrase</key><string>end</string><key>shortcut</key><string>%keyname</string></dict>
 	<dict><key>phrase</key><string>İ</string><key>shortcut</key><string>\.I</string></dict>
